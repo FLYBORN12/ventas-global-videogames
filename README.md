@@ -1,6 +1,9 @@
 # Proyecto ETL de Ventas de Videojuegos 🎮
 
-Este proyecto automatiza el proceso de extracción, transformación y carga (ETL) de datos relacionados con ventas de videojuegos usando Python, Pandas y PostgreSQL.
+Este proyecto automatiza el proceso de extracción, transformación y carga (ETL) de datos relacionados con ventas de videojuegos usando:
+- Python 🐍
+- Pandas 🐼
+- PostgreSQL ⚙️
 
 ## Estructura
 - `etl/`: Módulos de extracción, transformación, carga, conexión DB y manejo de errores.
