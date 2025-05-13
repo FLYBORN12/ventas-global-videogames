@@ -1,7 +1,7 @@
 #Paquetes internos
 from etl import extract,transform,load,handlerErrors
 
-path_file = 'C:/Users/juanf/Downloads/DataSetsToTest/VentasVideojuegos.xlsx'
+path_file = './source/VentasVideojuegos.xlsx'
 
 
 def run():

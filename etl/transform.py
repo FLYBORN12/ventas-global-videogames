@@ -77,8 +77,6 @@ def transform_to_load_tbl_ventas(DataFrame,DataTables):
     return df_to_ventas
 
 
-
-
 def cut_string_surpassed(df,column,max_lenght):
     try:
         df[column] = df[column].astype(str)
